@@ -1,5 +1,5 @@
 body,
-#header {
+.header {
     font-family: "Roboto", sans-serif;
     border-bottom: 1px solid #e7e9fc;
     width: 1440px;

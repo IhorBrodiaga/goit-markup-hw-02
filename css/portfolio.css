@@ -1,12 +1,26 @@
-#portfolio {
-    padding: 120px 0;
-    width: 1440px;
-    height: 1240px;
+
+
+.portfolio-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11111;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
 }
 
-.apapa {
-    padding: 0 15px;
-    width: 1158px;
-    height: 1000px;
-    max-width: 1158px;
+.portfolio-list h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.portfolio-list p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }

@@ -1,14 +1,9 @@
-.her {
-    padding: 0 15px;
-    width: 1158px;
-    height: 224px;
-    max-width: 1158px;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-    background: #4d5ae5;
+.hero {
+    background: #2e2f42;
     text-align: center;
 }
 
-.her .sol {
+.hero .sol {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 56px;
@@ -18,21 +13,22 @@
     color: #fff;
 }
 
-.her .order {
+.order {
     border-radius: 4px;
     padding: 16px 32px;
     width: 169px;
     height: 56px;
     max-width: 169px;
     cursor: pointer;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
+    background: #4d5ae5;
 }
 
-.her .order:hover {
-    border-radius: 4px;
-    padding: 16px 32px;
-    width: 169px;
-    height: 56px;
-    max-width: 169px;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+.order:hover,
+.order:focus {
     background: #404bbf;
 }

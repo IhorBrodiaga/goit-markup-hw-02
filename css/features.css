@@ -1,13 +1,17 @@
-.feat {
-    padding: 120px 0;
-width: 1440px;
-height: 344px;
+
+
+.features-list h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 
-.feat .our {
-    padding: 0 15px;
-width: 1158px;
-height: 104px;
-max-width: 1158px;
+.features-list p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
-
