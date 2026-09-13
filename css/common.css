@@ -1,9 +1,11 @@
-body,
-.header {
+body {
     font-family: "Roboto", sans-serif;
-    border-bottom: 1px solid #e7e9fc;
     color: #2e2f42;
     background: #fff;
+}
+
+.header {
+    border-bottom: 1px solid #e7e9fc;
 }
 
 ul {
