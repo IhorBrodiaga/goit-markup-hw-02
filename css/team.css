@@ -1,0 +1,24 @@
+.mate {
+    padding: 120px 0;
+    width: 1440px;
+    height: 732px;
+    background: #f4f4fd;
+}
+
+.mate .gam {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11111;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.mate .gam:hover {
+    border-radius: 0 0 4px 4px;
+    width: 264px;
+    height: 428px;
+    box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
+    background: #fff;
+}

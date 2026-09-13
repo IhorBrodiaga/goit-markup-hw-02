@@ -1,0 +1,87 @@
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.33333;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+.logo .accent {
+    color: #2e2f42;
+}
+
+.nav {
+    width: 253px;
+    height: 72px;
+}
+
+.add {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    width: 344px;
+    height: 72px;
+    cursor: pointer;
+}
+
+.add:hover {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #404bbf;
+}
+
+.ures {
+    padding: 24px 0;
+    width: 65px;
+    height: 72px;
+}
+
+.ures:hover,
+.ures:focus {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #404bbf;
+}
+
+.miit {
+    padding: 24px 0;
+    width: 42px;
+    height: 72px;
+}
+
+.miit:hover,
+.miit:focus {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #404bbf;
+}
+
+.folio {
+    padding: 24px 0;
+    width: 66px;
+    height: 72px;
+}
+
+.folio:hover,
+.folio:focus {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #404bbf;
+}

@@ -1,0 +1,13 @@
+#footer {
+    padding: 100px 0;
+    width: 1440px;
+    height: 312px;
+    background: #2e2f42;
+}
+
+#footer .ytyt {
+    padding: 0 15px;
+    width: 1158px;
+    height: 112px;
+    max-width: 1158px;
+}
